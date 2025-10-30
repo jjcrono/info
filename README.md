@@ -1,1 +1,1 @@
-# info.
+# Código de escuadra
